@@ -1,0 +1,17 @@
+# Generated / local-only files
+.venv/
+build/
+dist/
+_internal/
+ffmpeg/
+__pycache__/
+*.py[cod]
+*.spec
+*.exe
+*.lnk
+*.zip
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini

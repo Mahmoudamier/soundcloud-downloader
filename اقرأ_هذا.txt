@@ -1,0 +1,16 @@
+SoundCloud Downloader
+=====================
+
+الشرح الكامل موجود في ملف README.md
+
+تشغيل سريع:
+- حمّل SoundCloud-Downloader-portable.zip من صفحة Releases على GitHub.
+- فكّ الضغط في أي مكان، وافتح SoundCloud Downloader.exe بالدبل كليك.
+- الصق الرابط، اختار المجلد، اضغط تنزيل.
+
+من الكود المصدري:
+- install.bat        تجهيز بايثون وتثبيت المكتبات.
+- install_ffmpeg.bat تنزيل ffmpeg للتحويل إلى MP3.
+- build_exe.bat      بناء النسخة المحمولة في dist\SoundCloud Downloader.
+
+استخدم البرنامج للمحتوى الذي تملكه أو المسموح بتنزيله فقط.
